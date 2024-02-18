@@ -5,4 +5,4 @@ to use this projects you just need to take a copy of any one you need from the m
 
 you will find the proteus projects in the proteus_projects file.
 
-hint: I am using MPLAPX IDE v6.15
+hint: I am using MPLAPX IDE v6.15 and MCU -> PIC18f4620 
